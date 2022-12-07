@@ -1,0 +1,26 @@
+[
+    {
+        "user_name" : "Rafael",
+        "user_lastName" : "Baretta",
+        "user_birthDay" : "22",
+        "user_birthMonth" : "08",
+        "user_birthYear" : "1998"
+    },
+
+    {
+        "user_name" : "Gabby",
+        "user_lastName" : "Pier",
+        "user_birthDay" : "12",
+        "user_birthMonth" : "10",
+        "user_birthYear" : "2000"
+    },
+
+    {
+        "user_name" : "Kyle",
+        "user_lastName" : "Rigby",
+        "user_birthDay" : "09",
+        "user_birthMonth" : "08",
+        "user_birthYear" : "1996"
+    }
+
+]

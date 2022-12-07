@@ -1,0 +1,16 @@
+.calc_container{
+    width: 100px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.calc_screen{
+    display: block;
+    width: 300px;
+    height: 250px;
+    border: 100px;
+    font-size: 50px;
+    background-color: antiquewhite;
+}
